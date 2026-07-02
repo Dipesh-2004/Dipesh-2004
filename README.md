@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dipesh Khadka
 
-### Software Engineering Student | Passionate about AI & ML | Problem Solver
+### Software Engineering Student | Passionate about AI & ML 
 
 ---
 
