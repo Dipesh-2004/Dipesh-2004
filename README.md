@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dipesh Khadka
+# Hi  I'm Dipesh Khadka
 
 ### Software Engineering Student | Passionate about AI & ML 
 
